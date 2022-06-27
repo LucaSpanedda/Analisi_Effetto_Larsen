@@ -1,0 +1,18 @@
+Audio Files: 
+(in .wav SR:44100)
+Larsen_20cm_1
+Larsen_20cm_2
+Larsen_20cm_3
+Larsen_20cm_4
+Larsen_40cm_1
+Larsen_40cm_2 
+Larsen_60cm_1 
+Larsen_60cm_2
+Larsen_80cm_1
+Larsen_80cm_2 
+Larsen_1Meter_1
+Larsen_1Meter_2
+Larsen_1Meter_Speaker_Back_1
+Larsen_1Meter_Speaker_Back_2
+Larsen_1Meter_SpeakerANDMic_Back_1
+Larsen_1Meter_SpeakerANDMic_Back_2
