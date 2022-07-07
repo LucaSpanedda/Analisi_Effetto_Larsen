@@ -1,4 +1,4 @@
-# CALCOLO STFT
+# CALCOLO STFT, nel Plot max = ABS
 
 
 # librerie
