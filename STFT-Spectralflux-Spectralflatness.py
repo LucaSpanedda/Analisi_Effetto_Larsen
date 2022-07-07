@@ -1,6 +1,5 @@
 # CALCOLO SPECTRAL FLUX / FLATNESS
 
-
 # librerie
 import pyACA
 import numpy as np
@@ -26,14 +25,11 @@ time = np.arange(0,np.size(x))/fs
 # spectral flatness
 [dsf, t] = pyACA.computeFeature("SpectralFlatness",x,fs,iBlockLength=1024, iHopLength=512)
 
-
 # plot
-
 # nomina output
 nomeplot = audiofile+"-Spectral-flux-flatness.png"
 
 # numero di grafici verticali, numero di finestre orizzontali, numero progressivo
-
 plt.subplot(3,1,1) 
 plt.grid()
 plt.specgram(x, NFFT=2048, Fs=fs, noverlap=1024, cmap='jet_r')
